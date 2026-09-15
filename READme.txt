@@ -1,0 +1,5 @@
+streamlit>=1.38
+google-genai>=1.0
+fpdf2>=2.7.9
+pandas>=2.2
+unidecode>=1.3
